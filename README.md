@@ -3,7 +3,6 @@
 ### La influencia de la salud mental en la deserción escolar
 
 ### *Factores de potencialización en la deserción escolar*
-## ETL al *dataset* 9_ENAH_students.csv 
 
   Cruz, R (2023): Factores de la deserción escolar. v1.0. ENAH - Dep. Antropología Física. *dataset*. https://www.kaggle.com/competitions/etl-datasets-salud-mental/data?select=9_ENAH_students.csv
 
